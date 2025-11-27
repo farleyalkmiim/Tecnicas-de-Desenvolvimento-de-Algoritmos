@@ -42,7 +42,18 @@ Ele permite gerenciar veículos, clientes e funcionários de forma simples, orga
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ### 🖥️ Back-end
-![PHP](htt)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL/MariaDB-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Servidor Local
+
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+------------------------------------------------------------------------
 
 
 # Olá, eu sou o Farley Alkmim! 👋
